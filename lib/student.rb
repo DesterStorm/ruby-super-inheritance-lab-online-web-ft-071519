@@ -1,7 +1,7 @@
 class Student
   
   def hello 
-    "Het"
+    "Hey there! I'm so excited to learn stuff."
   end
   
 end
